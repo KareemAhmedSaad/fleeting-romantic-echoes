@@ -61,7 +61,17 @@ export default {
 					'accent-foreground': 'hsl(var(--sidebar-accent-foreground))',
 					border: 'hsl(var(--sidebar-border))',
 					ring: 'hsl(var(--sidebar-ring))'
-				}
+				},
+				'romantic-purple': 'hsl(var(--romantic-purple))',
+				'romantic-purple-light': 'hsl(var(--romantic-purple-light))',
+				'romantic-gold': 'hsl(var(--romantic-gold))',
+				'romantic-gold-bright': 'hsl(var(--romantic-gold-bright))',
+				'romantic-pink': 'hsl(var(--romantic-pink))',
+				'romantic-blue': 'hsl(var(--romantic-blue))'
+			},
+			fontFamily: {
+				serif: ['Playfair Display', 'serif'],
+				sans: ['Inter', 'sans-serif']
 			},
 			borderRadius: {
 				lg: 'var(--radius)',
